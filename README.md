@@ -1,14 +1,12 @@
-# Ola-Ride-data-Analysis
-
 # 🚖 Ola Ride Data Analysis using SQL and Power Bi
 
 ## 📌 Project Overview  
 This project analyzes **Ola ride data** to uncover key insights about booking trends, ride cancellations, payment methods, and customer behavior. Using **SQL (MySQL Workbench)**, we performed data cleaning, aggregation, and trend analysis to provide business insights.  
 
 ## 🛠️ Technologies Used  
-- **SQL (MySQL Workbench)** – Data extraction, cleaning, and transformation  
-- **Excel** – Data preprocessing and trend analysis  
-- **Power BI (Optional)** – Visualization of ride trends and key metrics  
+- **SQL (MySQL Workbench)** – Data extraction, and transformation  
+- **Excel** – Data preprocessing and cleaning 
+- **Power BI** – Visualization of ride trends and key metrics  
 
 ---
 
@@ -79,7 +77,17 @@ The **Power BI dashboard** visualizes:
 📌 **Peak ride hours** 🕒  
 📌 **Customer booking patterns** 🗺️  
 
-*(Insert a screenshot of the Power BI dashboard here!)*  
+![Screenshot 2025-02-20 114246](https://github.com/user-attachments/assets/570d36eb-4b3b-464c-8fe9-f6e335f0749a)
+
+![Screenshot 2025-02-20 114259](https://github.com/user-attachments/assets/b1c09e39-dae0-4eec-8afe-f8d8fcd18ecf)
+
+![Screenshot 2025-02-20 114311](https://github.com/user-attachments/assets/85fa6137-0a9e-4a80-b2a5-b0d777288830)
+
+![Screenshot 2025-02-20 114321](https://github.com/user-attachments/assets/2c3634fd-31a7-430e-b3e6-eff6d4393251)
+
+![Screenshot 2025-02-20 114341](https://github.com/user-attachments/assets/9b9fc6bb-b8d6-4a08-b875-33a817b6efdb)
+
+
 
 ---
 
